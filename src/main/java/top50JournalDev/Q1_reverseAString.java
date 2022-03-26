@@ -7,13 +7,13 @@ public class Q1_reverseAString {
         //How to reverse a String in Java?
 
         String a="java";
-        String dummy="";
+        String reverse="";
 
         for (int i = a.length()-1; i >= 0; i--) {
-            dummy = dummy+a.charAt(i);
+            reverse = reverse+a.charAt(i);
 
         }
-        System.out.println(dummy);
+        System.out.println(reverse);
     }
 
 
