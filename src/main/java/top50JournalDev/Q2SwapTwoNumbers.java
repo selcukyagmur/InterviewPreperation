@@ -1,6 +1,6 @@
 package top50JournalDev;
 
-public class Q2_swapTwoNumbers {
+public class Q2SwapTwoNumbers {
 
     public static void main(String[] args) {
         //How to swap two numbers without using a third variable?

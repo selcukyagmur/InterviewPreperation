@@ -1,6 +1,6 @@
 package top50JournalDev;
 
-public class Q5_FibonacciNumbers {
+public class Q5FibonacciNumbers {
 
     public static void main(String[] args) {
 

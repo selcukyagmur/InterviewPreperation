@@ -1,6 +1,6 @@
 package top50JournalDev;
 
-public class Q4_IsPrime {
+public class Q4IsPrime {
 
     public static void main(String[] args) {
         //Java program to check if the given number is Prime?

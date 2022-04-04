@@ -1,6 +1,6 @@
 package top50JournalDev;
 
-public class Q1_reverseAString {
+public class Q1ReverseAString {
 
     public static void main(String[] args) {
 
